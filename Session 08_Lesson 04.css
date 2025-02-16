@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    border-bottom: 3px solid red;
+    width: 140px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+table{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+div{
+    border: 1px solid rgb(216, 210, 210);
+    transform: rotate(45deg);
+}
+img{
+    width: 90px;
+    height: 90px;
+    transform: rotate(-45deg);
+}  
+td{
+    padding: 0px 20px 40px 50px;
+}
+h3{
+    padding-bottom: 20px;
+}
+p{
+    color: gray;
+}
